@@ -164,3 +164,17 @@
 2025-02-23T22:01:29.227379Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
 2025-02-23T22:05:16.130251Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("docs/設計書等/トークン")}
 2025-02-23T22:05:16.130312Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-02-23T23:06:01.462387Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("docs/.DS_Store"), AnchoredSystemPathBuf("docs/設計書等/tasks-list.md")}
+2025-02-23T23:06:01.462451Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-02-23T23:08:46.563185Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf(".DS_Store")}
+2025-02-23T23:08:46.563208Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-02-23T23:09:01.163039Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("docs/名称未設定フォルタ\u{3099}"), AnchoredSystemPathBuf("docs/.DS_Store")}
+2025-02-23T23:09:01.163057Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-02-23T23:09:02.963390Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("docs/名称未設定フォルタ\u{3099}"), AnchoredSystemPathBuf("docs/project")}
+2025-02-23T23:09:02.963429Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-02-23T23:09:10.663692Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("docs/.DS_Store"), AnchoredSystemPathBuf("docs/設計書等/tasks-list.md"), AnchoredSystemPathBuf("docs/project/tasks-list.md")}
+2025-02-23T23:09:10.663723Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-02-23T23:09:15.662890Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("docs/設計書等/.DS_Store")}
+2025-02-23T23:09:15.662963Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-02-23T23:11:10.663578Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("docs/.DS_Store")}
+2025-02-23T23:11:10.663611Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
