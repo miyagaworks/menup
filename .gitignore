@@ -176,3 +176,6 @@ dist
 .yarn/install-state.gz
 .pnp.*
 >>>>>>> 0185bc88a54ccd817554993e43f6aad564e99189
+
+# Ignore token files
+docs/設計書等/トークン
